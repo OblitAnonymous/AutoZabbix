@@ -50,8 +50,8 @@ def create_host():
         inventory={
                 'location': 'South Africa',
                 'location_lat': gps_lat,
-                'location_lon': gps_long,
-                'contact':'Armant Van Der Linden \n cell:0672199299 \n email: armant.vanderlinden@gmail.com'
+                'location_long': gps_long,
+                'contact':'<Contact Person Details>'
             }
     )
 
