@@ -1,18 +1,26 @@
 # Zabbix-Automation
 
 ## 1. Project Description:
+
 ### Motivation for this Project:
+
 The main motivation for this project derives from the fact that after setting up an initial zabbix server, it is then extremely time consuming to create, edit and manage hosts as laid out in the normal user interface.
 
 By using the built-in Zabbix API, and some smart python coding, this extremely time consuming task of adding hudereds or even thousands of hosts becomes a function and a tool that will execute perfectly every time within minutes.
 
 ### Why I decided to use the API:
-I decided to use the API for zabbix after creating multiple zabbix servers, and then manually adding thousands of hosts by hand for each of these servers, which became a time consuming task, and interrupted my other work and workflows.
-###
-###
-###
-## 2. Table of Contents:
 
+I decided to use the API for zabbix after creating multiple zabbix servers, and then manually adding thousands of hosts by hand for each of these servers, which became a time consuming task, and interrupted my other work and workflows.
+
+### Why use these tools?
+These tools are easy to use and understand, and are written in Python, which is an extremely simple programming language.
+
+Paired with these tools and the provided Zabbix API documentation, you can use them as templates to edit and or create your own scripts to run.
+
+
+## 2. Table of Contents:
+* Get Hosts
+* 
 
 
 ## 3. How to run and install the project:
