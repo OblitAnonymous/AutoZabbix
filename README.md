@@ -8,7 +8,9 @@ By using the built-in Zabbix API, and some smart python coding, this extremely t
 
 ### Why I decided to use the API:
 I decided to use the API for zabbix after creating multiple zabbix servers, and then manually adding thousands of hosts by hand for each of these servers, which became a time consuming task, and interrupted my other work and workflows.
-#
+###
+###
+###
 ## 2. Table of Contents:
 
 
