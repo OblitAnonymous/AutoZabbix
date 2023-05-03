@@ -19,7 +19,9 @@ Paired with these tools and the provided Zabbix API documentation, you can use t
 # 3. Installation:
 ### Python Installation:
 * You should install the __pyzabbix__ library.
-> pip install pyzabbix
+```
+pip install pyzabbix
+```
 
 ### Zabbix Server Configuration:
 To stay in line with a secure zabbix server configuration, you should consider doing the following:
