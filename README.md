@@ -35,7 +35,5 @@ To stay in line with a secure zabbix server configuration, you should consider d
 * Change the __ZABBIX ZERVER USER__ & __ZABBIX USER PASSWORD__ to the username and password you created earlier for the Zabbix API user.
 
 # 5. Credits
-```
-Zabbix API Documentation
-Zabbix API Automation with the various Zabbix versions
-```
+* Zabbix API Documentation: [https://www.zabbix.com/documentation/current/en/manual/api]
+
