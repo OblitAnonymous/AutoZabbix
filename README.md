@@ -1,6 +1,4 @@
-# Zabbix-Automation
-
-## 1. Project Description:
+# 1. Project Description:
 
 ### Motivation for this Project:
 
@@ -18,17 +16,22 @@ These tools are easy to use and understand, and are written in Python, which is 
 Paired with these tools and the provided Zabbix API documentation, you can use them as templates to edit and or create your own scripts to run.
 
 
-## 3. Installation:
+# 3. Installation:
+### Python Installation:
 * You should install the __pyzabbix__ library.
 > pip install pyzabbix
 
+### Zabbix Server Configuration:
+To stay in line with a secure zabbix server configuration, you should consider doing the following:
 
-### That's it, you're done with the installation.
+* Create a Zabbix User account, which has access to the API.
+* Use this Zabbix user's credentials within the scripts in order to execute them.
+* Remove the user account from the server after you are done with the scripts.
 
-## 4. How to use the project:
+# 4. How to use the project:
 * Change the __ZABBIX SERVER URL__ within the code to your own Zabbix Server URL.
 * Change the __ZABBIX ZERVER USER__ & __ZABBIX USER PASSWORD__ to the username and password you created earlier for the Zabbix API user.
 
-## 5. Credits
+# 5. Credits
 Zabbix API Documentation
 Zabbix API Automation with the various Zabbix versions
