@@ -18,14 +18,16 @@ These tools are easy to use and understand, and are written in Python, which is 
 Paired with these tools and the provided Zabbix API documentation, you can use them as templates to edit and or create your own scripts to run.
 
 
-## 2. Table of Contents:
-* Get Hosts
-* 
+## 3. Installation:
+* You should install the __pyzabbix__ library.
+> pip install pyzabbix
 
 
-## 3. How to run and install the project:
+### That's it, you're done with the installation.
 
 ## 4. How to use the project:
+* Change the __ZABBIX SERVER URL__ within the code to your own Zabbix Server URL.
+* Change the __ZABBIX ZERVER USER__ & __ZABBIX USER PASSWORD__ to the username and password you created earlier for the Zabbix API user.
 
 ## 5. Credits
 Zabbix API Documentation
