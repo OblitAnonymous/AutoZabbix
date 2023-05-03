@@ -16,11 +16,10 @@ The script creates new hosts on the Zabbix server based on the information provi
 ## Notes about the script:
 
 * The script assuemes that the CSV file is located in a folder called "Add Host" in the same directory as the script.
-> If the CSV file is located elsewhere, the file path in the "with open" statement will need to be updated.
+> If the CSV file is located elsewhere, the file path in the __"with open"__ statement will need to be updated.
 
-* The script assumes that the values in the "Site Name" column of the CSV file will be used as the name of the new host.
+* The script assumes that the values in the __"Site Name"__ column of the CSV file will be used as the name of the new host.
 > If the CSV file contains a different column that should be used as the host name, the script will need to be modified accordingly.
 
 * The script also assumes that the Zabbix server is already set up with the necessary templates and groups to create new hosts.
 > If these are not already set up, the script will need to be modified to add them.
-
