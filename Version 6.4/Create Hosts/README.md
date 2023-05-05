@@ -27,12 +27,9 @@ The script creates new hosts on the Zabbix server based on the information provi
 ## Notes about the CSV file:
 
 The CSV file should look like the following template:
-||==================================||
-||  IP  ||  Name  ||  Other Details ||
-||======||========||================||
-||      ||        ||                ||
-|| =================================||
+![image](https://user-images.githubusercontent.com/73064545/236462161-23412f29-74e3-49d9-812d-e9a901e74a0e.png)
+
 
 You can add as many details as you want within the csv file, but __REMEMBER__ to change the values within the source code to correlate to the different inventory details you may want to add within the Zabbix host.
 
-YOu can read more about the Zabbix Inventory details from the following link: (https://www.zabbix.com/documentation/current/en/manual/config/hosts/inventory)
+You can read more about the Zabbix Inventory details from the following link: (https://www.zabbix.com/documentation/current/en/manual/config/hosts/inventory)
