@@ -27,6 +27,7 @@ The script creates new hosts on the Zabbix server based on the information provi
 ## Notes about the CSV file:
 
 The CSV file should look like the following template:
+
 ![image](https://user-images.githubusercontent.com/73064545/236462161-23412f29-74e3-49d9-812d-e9a901e74a0e.png)
 
 
