@@ -23,3 +23,16 @@ The script creates new hosts on the Zabbix server based on the information provi
 
 * The script also assumes that the Zabbix server is already set up with the necessary templates and groups to create new hosts.
 > If these are not already set up, the script will need to be modified to add them.
+
+## Notes about the CSV file:
+
+The CSV file should look like the following template:
+||==================================||
+||  IP  ||  Name  ||  Other Details ||
+||======||========||================||
+||      ||        ||                ||
+|| =================================||
+
+You can add as many details as you want within the csv file, but __REMEMBER__ to change the values within the source code to correlate to the different inventory details you may want to add within the Zabbix host.
+
+YOu can read more about the Zabbix Inventory details from the following link: (https://www.zabbix.com/documentation/current/en/manual/config/hosts/inventory)
