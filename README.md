@@ -1,6 +1,5 @@
 
 # Motivation for this Project:
-Zabbix is a robust network monitoring tool that is widely used to monitor the health and performance of network infrastructure. However, configuring and managing hosts within the Zabbix user interface can be time-consuming, especially when dealing with large-scale and enterprise deployments that may have thousands of hosts.
 
 After manually adding thousands of hosts to multiple Zabbix servers, I realized that the process was becomming increasingly time-consuming and was impacting my productivity. To streamline this process, I have invested significant time in leveraging the build-in Zabbix API and Python scripting to automate host management. 
 
