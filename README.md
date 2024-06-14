@@ -1,7 +1,7 @@
 
 # Motivation for this Project:
 
-After manually adding thousands of hosts to multiple Zabbix server, I realized that the process was becoming increasingly time-consuming and was impacting my productivity. To streamline this process, I have invested some time in leveraging the build-in Zabbix API and simple Python scripting to automate host management and other various actions.
+After manually adding thousands of hosts to multiple Zabbix server, I realized that the process was becoming increasingly time-consuming and was impacting my productivity. To streamline this process, I have invested some time in leveraging the built-in Zabbix API and simple Python scripting to automate host management and other various actions.
 
 These tools also enable junior developers and network administrators to roll out testing and monitoring to thousands of hosts within minutes, while also minimizing the risk of errors and inconsistencies in their configuration. By automating the host management process, we can create a more reliable and scalable monitoring infrastructure that can adapt to the changing needs of the network.
 
@@ -11,7 +11,7 @@ These tools also enable junior developers and network administrators to roll out
 
 2. __PyZabbix__ is a Python library that provides a simplified interface for communicating with the Zabbix API. This library makes it easy to interact with the Zabbix API and perform common tasks such as retrieving host and trigger data, creating and updating hosts, and setting up monitoring templates.
 
-3. Finally, the __Zabbix API__ provides a tobust and flexible interface for interfacing with the Zabbix server. By using the API, you can automate tasks that would otherwise require manual configuration within the Zabbix user interface. This allows for faster and more efficient management of your monitoring infrastructure.
+3. Finally, the __Zabbix API__ provides a robust and flexible interface for interfacing with the Zabbix server. By using the API, you can automate tasks that would otherwise require manual configuration within the Zabbix user interface. This allows for faster and more efficient management of your monitoring infrastructure.
 
 Together, these tools provide a powerful solution for managing hosts within the Zabbix Server.
 
