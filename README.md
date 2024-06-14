@@ -1,7 +1,7 @@
 
 # Motivation for this Project:
 
-After manually addint thousands of hosts to multiple Zabbix server, I realized that the process was becoming increasingly time-consuming and was impacting my productivity. To streamline this process, I have invested some time in leveraging the build-in Zabbix API and simple Python scripting to automate host management and other various actions.
+After manually adding thousands of hosts to multiple Zabbix server, I realized that the process was becoming increasingly time-consuming and was impacting my productivity. To streamline this process, I have invested some time in leveraging the build-in Zabbix API and simple Python scripting to automate host management and other various actions.
 
 These tools also enable junior developers and network administrators to roll out testing and monitoring to thousands of hosts within minutes, while also minimizing the risk of errors and inconsistencies in their configuration. By automating the host management process, we can create a more reliable and scalable monitoring infrastructure that can adapt to the changing needs of the network.
 
